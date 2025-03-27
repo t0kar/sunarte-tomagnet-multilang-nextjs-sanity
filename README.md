@@ -1,4 +1,4 @@
-# A Next.js Blog with a Native Authoring Experience<!-- omit in toc -->
+# A Next.js Blog with a Native Authoring Experience:<!-- omit in toc -->
 
 This starter is a statically generated blog that uses [Next.js][nextjs] for the frontend and [Sanity][sanity-homepage] to handle its content. It comes with a native Sanity Studio that offers features like real-time collaboration and visual editing with live updates using [Presentation][presentation].
 
